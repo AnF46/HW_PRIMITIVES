@@ -4,5 +4,5 @@ public class Main {
         final int ONEBONUSMIL = 20;
         int earnedMils = ticketCost / ONEBONUSMIL;
         System.out.println("У Вас "+ earnedMils +" бесплатных миль для путешествий!");
-    }//something wrong
+    }
 }
